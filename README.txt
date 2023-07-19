@@ -1,0 +1,1 @@
+Python API calling to open trivia to get questions 10, rendered onto Tkinter app true or false format
